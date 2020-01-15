@@ -15,7 +15,7 @@ These are the current avaliable modules:
 
 #### CAF_DocumentDetector
 
-Provides an interface used to scan and validate documents. Ensures that the scanned doccument has enough quality to facilitate the process of Optical Character Recognition (OCR).
+Provides an interface used to scan and validate documents. Ensures that the scanned document has enough quality to facilitate the process of Optical Character Recognition (OCR).
 
 [Full documentation for CAF_DocumentDetector](https://github.com/combateafraude/android-sdk/wiki/CAF_DocumentDetector)
 

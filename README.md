@@ -7,7 +7,7 @@
 
 <hr>
 
-This repository contains realeases and documentation of Combate a Fraude's Android SKDs.
+This repository contains realeases and documentation of Combate a Fraude's Android SDKs.
 
 For more information about a specific topic, please check [our wiki](https://github.com/combateafraude/android-sdk/wiki) or [open an issue](https://github.com/combateafraude/android-sdk/issues).
 

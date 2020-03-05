@@ -17,33 +17,33 @@ These are the current avaliable modules:
 
 Provides an interface used to scan a document and capture a real selfie of the user, used for registration process. It uses `CAF_DocumentDetector` + `CAF_FaceLiveness`
 
-[Full documentation for CAF_Onboarding](https://github.com/combateafraude/android-sdk/wiki/CAF_Onboarding)
+[Documentation](https://github.com/combateafraude/android-sdk/wiki/CAF_Onboarding)
 
 #### CAF_DocumentDetector
 
 Provides an interface used to scan and validate documents. Ensures that the scanned document has enough quality to facilitate the process of Optical Character Recognition (OCR).
 
-[Full documentation for CAF_DocumentDetector](https://github.com/combateafraude/android-sdk/wiki/CAF_DocumentDetector)
+[Documentation](https://github.com/combateafraude/android-sdk/wiki/CAF_DocumentDetector)
 
 #### CAF_FaceAuthenticator
 
 Provides an interface used to capture a selfie and compare it with a server-stored image, making sure they are the same person.
 
-[Full documentation for CAF_FaceAuthenticator](https://github.com/combateafraude/android-sdk/wiki/CAF_FaceAuthenticator)
+[Documentation](https://github.com/combateafraude/android-sdk/wiki/CAF_FaceAuthenticator)
 
 #### CAF_FaceLiveness
 
 Provides an interface used to make sure that the person in front of the device is a live person and not a photo or recording.
 
-[Full documentation for CAF_FaceLiveness](https://github.com/combateafraude/android-sdk/wiki/CAF_FaceLiveness)
+[Documentation](https://github.com/combateafraude/android-sdk/wiki/CAF_FaceLiveness)
 
 #### CAF_Security
 
 Provides an interface to get a fingerprint and check the security of the current device.
 
-[Full documentation for CAF_Security](https://github.com/combateafraude/android-sdk/wiki/CAF_Security)
+[Documentation](https://github.com/combateafraude/android-sdk/wiki/CAF_Security)
 
 
-## Full documentation
+## Prerequisites, importing, changelog and other informations
 
 Take a look at the [wiki](https://github.com/combateafraude/android-sdk/wiki) page.

@@ -38,6 +38,6 @@ Provides an interface to get a fingerprint and check the security of the current
 [Full documentation for CAF_Security](https://github.com/combateafraude/android-sdk/wiki/CAF_Security)
 
 
-### :bookmark_tabs: Changelog
+## :bookmark_tabs: Changelog
 
 Take a look at the [changelog](https://github.com/combateafraude/android-sdk/wiki/Changelog) page.

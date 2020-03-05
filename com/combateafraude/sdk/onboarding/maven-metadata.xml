@@ -3,10 +3,11 @@
   <groupId>com.combateafraude.sdk</groupId>
   <artifactId>onboarding</artifactId>
   <versioning>
-    <release>1.0.0-beta</release>
+    <release>1.0.1-beta</release>
     <versions>
       <version>1.0.0-beta</version>
+      <version>1.0.1-beta</version>
     </versions>
-    <lastUpdated>20200305162534</lastUpdated>
+    <lastUpdated>20200305171833</lastUpdated>
   </versioning>
 </metadata>

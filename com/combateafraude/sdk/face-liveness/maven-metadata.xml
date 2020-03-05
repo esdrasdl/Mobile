@@ -3,10 +3,11 @@
   <groupId>com.combateafraude.sdk</groupId>
   <artifactId>face-liveness</artifactId>
   <versioning>
-    <release>1.0.0-beta</release>
+    <release>1.0.1-beta</release>
     <versions>
       <version>1.0.0-beta</version>
+      <version>1.0.1-beta</version>
     </versions>
-    <lastUpdated>20200305162520</lastUpdated>
+    <lastUpdated>20200305171725</lastUpdated>
   </versioning>
 </metadata>

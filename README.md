@@ -9,9 +9,15 @@
 
 This repository contains realeases and documentation of Combate a Fraude's Android SDKs.
 
-For more information about a specific topic, please check [our wiki](https://github.com/combateafraude/android-sdk/wiki) or [open an issue](https://github.com/combateafraude/android-sdk/issues).
+For more information about a specific topic, please check [our wiki](https://github.com/combateafraude/android-sdk/wiki) or [create an issue](https://github.com/combateafraude/android-sdk/issues).
 
 These are the current avaliable modules:
+
+#### CAF_Onboarding
+
+Provides an interface used to scan a document and capture a real selfie of the user, used for registration process. It uses `CAF_DocumentDetector` + `CAF_FaceLiveness`
+
+[Full documentation for CAF_Onboarding](https://github.com/combateafraude/android-sdk/wiki/CAF_Onboarding)
 
 #### CAF_DocumentDetector
 

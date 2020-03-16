@@ -3,12 +3,13 @@
   <groupId>com.combateafraude.sdk</groupId>
   <artifactId>document-detector</artifactId>
   <versioning>
-    <release>1.0.2-beta</release>
+    <release>1.0.3-beta</release>
     <versions>
       <version>1.0.0-beta</version>
       <version>1.0.1-beta</version>
       <version>1.0.2-beta</version>
+      <version>1.0.3-beta</version>
     </versions>
-    <lastUpdated>20200310174152</lastUpdated>
+    <lastUpdated>20200316153750</lastUpdated>
   </versioning>
 </metadata>

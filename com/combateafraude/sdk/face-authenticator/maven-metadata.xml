@@ -3,13 +3,14 @@
   <groupId>com.combateafraude.sdk</groupId>
   <artifactId>face-authenticator</artifactId>
   <versioning>
-    <release>1.0.3-beta</release>
+    <release>1.0.4-beta</release>
     <versions>
       <version>1.0.0-beta</version>
       <version>1.0.1-beta</version>
       <version>1.0.2-beta</version>
       <version>1.0.3-beta</version>
+      <version>1.0.4-beta</version>
     </versions>
-    <lastUpdated>20200316154257</lastUpdated>
+    <lastUpdated>20200323150404</lastUpdated>
   </versioning>
 </metadata>

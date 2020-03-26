@@ -20,7 +20,7 @@ Provides an interface used to scan a document and capture a real selfie of the u
 [Documentation](https://github.com/combateafraude/android-sdk/wiki/CAF_Onboarding)
 
 <div align="center">
-    <img src="https://github.com/combateafraude/android-sdk/blob/master/resources/CAF_Onboarding.gif" style="border: 10px solid transparent;">
+    <img src="https://github.com/combateafraude/android-sdk/blob/master/resources/CAF_Onboarding.gif">
 </div>
 
 <hr>
@@ -31,11 +31,23 @@ Provides an interface used to scan and validate documents. Ensures that the scan
 
 [Documentation](https://github.com/combateafraude/android-sdk/wiki/CAF_DocumentDetector)
 
+<div align="center">
+    <img src="https://github.com/combateafraude/android-sdk/blob/master/resources/CAF_DocumentDetector.gif">
+</div>
+
+<hr>
+
 #### CAF_FaceAuthenticator
 
 Provides an interface used to capture a selfie and compare it with a server-stored image, making sure they are the same person.
 
 [Documentation](https://github.com/combateafraude/android-sdk/wiki/CAF_FaceAuthenticator)
+
+<div align="center">
+    <img src="https://github.com/combateafraude/android-sdk/blob/master/resources/CAF_FaceAuthenticator.gif">
+</div>
+
+<hr>
 
 #### CAF_FaceLiveness
 
@@ -43,12 +55,23 @@ Provides an interface used to make sure that the person in front of the device i
 
 [Documentation](https://github.com/combateafraude/android-sdk/wiki/CAF_FaceLiveness)
 
+<div align="center">
+    <img src="https://github.com/combateafraude/android-sdk/blob/master/resources/CAF_FaceLiveness.gif">
+</div>
+
+<hr>
+
 #### CAF_Security
 
 Provides an interface to get a fingerprint and check the security of the current device.
 
 [Documentation](https://github.com/combateafraude/android-sdk/wiki/CAF_Security)
 
+<div align="center">
+    <img src="https://github.com/combateafraude/android-sdk/blob/master/resources/CAF_Security.gif">
+</div>
+
+<hr>
 
 ## Prerequisites, importing, changelog and other informations
 

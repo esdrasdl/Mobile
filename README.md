@@ -19,8 +19,8 @@ Provides an interface used to scan a document and capture a real selfie of the u
 
 [Documentation](https://github.com/combateafraude/android-sdk/wiki/CAF_Onboarding)
 
-<div align="center" style="border-style: dashed;">
-    <img src="https://github.com/combateafraude/android-sdk/blob/master/resources/CAF_Onboarding.gif">
+<div align="center">
+    <img src="https://github.com/combateafraude/android-sdk/blob/master/resources/CAF_Onboarding.gif" style="border: 10px solid transparent;">
 </div>
 
 <hr>

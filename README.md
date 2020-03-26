@@ -19,6 +19,8 @@ Provides an interface used to scan a document and capture a real selfie of the u
 
 [Documentation](https://github.com/combateafraude/android-sdk/wiki/CAF_Onboarding)
 
+![](https://github.com/combateafraude/android-sdk/blob/master/resources/CAF_Onboarding.gif)
+
 #### CAF_DocumentDetector
 
 Provides an interface used to scan and validate documents. Ensures that the scanned document has enough quality to facilitate the process of Optical Character Recognition (OCR).

@@ -43,14 +43,24 @@ Provides an interface used to capture a selfie and compare it with a server-stor
     <img src="https://github.com/combateafraude/android-sdk/blob/master/resources/CAF_FaceAuthenticator.gif">
 </div>
 
-#### CAF_FaceLiveness
+#### CAF_FaceLivenessEffortless
 
-Provides an interface used to make sure that the person in front of the device is a live person and not a photo or recording.
+Provides an interface used to make sure that the person in front of the device is a live person and not a photo or recording without facial movements.
 
-[Documentation](https://github.com/combateafraude/android-sdk/wiki/CAF_FaceLiveness)
+[Documentation](https://github.com/combateafraude/android-sdk/wiki/CAF_FaceLivenessEffortless)
 
 <div align="center">
-    <img src="https://github.com/combateafraude/android-sdk/blob/master/resources/CAF_FaceLiveness.gif">
+    <img src="https://github.com/combateafraude/android-sdk/blob/master/resources/CAF_FaceLivenessEffortless.gif">
+</div>
+
+#### CAF_FaceLivenessMotion
+
+Provides an interface used to make sure that the person in front of the device is a live person and not a photo or recording using facial movements.
+
+[Documentation](https://github.com/combateafraude/android-sdk/wiki/CAF_FaceLivenessMotion)
+
+<div align="center">
+    <img src="https://github.com/combateafraude/android-sdk/blob/master/resources/CAF_FaceLivenessMotion.gif">
 </div>
 
 #### CAF_Security

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.combateafraude.sdk</groupId>
+  <artifactId>face-liveness-motion</artifactId>
+  <versioning>
+    <release>1.0.6-beta</release>
+    <versions>
+      <version>1.0.6-beta</version>
+    </versions>
+    <lastUpdated>20200403222405</lastUpdated>
+  </versioning>
+</metadata>

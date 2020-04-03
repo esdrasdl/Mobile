@@ -3,7 +3,7 @@
   <groupId>com.combateafraude.sdk</groupId>
   <artifactId>security</artifactId>
   <versioning>
-    <release>1.0.5-beta</release>
+    <release>1.0.6-beta</release>
     <versions>
       <version></version>
       <version>1.0.0-beta</version>
@@ -12,7 +12,8 @@
       <version>1.0.3-beta</version>
       <version>1.0.4-beta</version>
       <version>1.0.5-beta</version>
+      <version>1.0.6-beta</version>
     </versions>
-    <lastUpdated>20200325200744</lastUpdated>
+    <lastUpdated>20200403221308</lastUpdated>
   </versioning>
 </metadata>

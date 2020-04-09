@@ -13,7 +13,7 @@ For more information about a specific topic, please check [our wiki](https://git
 
 These are the current avaliable modules:
 
-#### <p>Onboarding [<img src="/resources/android.png" style="margin-left:50px">](https://github.com/combateafraude/SDK/wiki/Onboarding)</p>
+#### Onboarding [<img src="/resources/android.png">](https://github.com/combateafraude/SDK/wiki/Onboarding)
 
 Provides an interface used to scan a document and capture a real selfie of the user, used for registration process. It uses `DocumentDetector` + `FaceLiveness`
 
@@ -23,7 +23,7 @@ Provides an interface used to scan a document and capture a real selfie of the u
     <img src="/resources/Onboarding.gif">
 </div>
 
-#### DocumentDetector [<img src="/resources/android.png" style="margin-left:10px">](https://github.com/combateafraude/SDK/wiki/DocumentDetector) [<img src="/resources/apple.png" style="margin-left:10px">](https://github.com/combateafraude/SDK/wiki/DocumentDetector)
+#### DocumentDetector [<img src="/resources/android.png"](https://github.com/combateafraude/SDK/wiki/DocumentDetector) [<img src="/resources/apple.png">](https://github.com/combateafraude/SDK/wiki/DocumentDetector)
 
 Provides an interface used to scan and validate documents. Ensures that the scanned document has enough quality to facilitate the process of Optical Character Recognition (OCR).
 
@@ -33,7 +33,7 @@ Provides an interface used to scan and validate documents. Ensures that the scan
     <img src="/resources/DocumentDetector.gif">
 </div>
 
-#### FaceAuthenticator (Android & iOS)
+#### FaceAuthenticator [<img src="/resources/android.png"](https://github.com/combateafraude/SDK/wiki/FaceAuthenticator) [<img src="/resources/apple.png">](https://github.com/combateafraude/SDK/wiki/FaceAuthenticator)
 
 Provides an interface used to capture a selfie and compare it with a server-stored image, making sure they are the same person.
 
@@ -43,7 +43,7 @@ Provides an interface used to capture a selfie and compare it with a server-stor
     <img src="/resources/FaceAuthenticator.gif">
 </div>
 
-#### FaceLivenessEffortless (Android & iOS)
+#### FaceLivenessEffortless [<img src="/resources/android.png"](https://github.com/combateafraude/SDK/wiki/FaceLivenessEffortless) [<img src="/resources/apple.png">](https://github.com/combateafraude/SDK/wiki/FaceLivenessEffortless)
 
 Provides an interface used to make sure that the person in front of the device is a live person and not a photo or recording without facial movements.
 
@@ -53,7 +53,7 @@ Provides an interface used to make sure that the person in front of the device i
     <img src="/resources/FaceLivenessEffortless.gif">
 </div>
 
-#### FaceLivenessMotion (Android & iOS)
+#### FaceLivenessMotion [<img src="/resources/android.png"](https://github.com/combateafraude/SDK/wiki/FaceLivenessMotion) [<img src="/resources/apple.png">](https://github.com/combateafraude/SDK/wiki/FaceLivenessMotion)
 
 Provides an interface used to make sure that the person in front of the device is a live person and not a photo or recording using facial movements.
 
@@ -63,7 +63,7 @@ Provides an interface used to make sure that the person in front of the device i
     <img src="/resources/FaceLivenessMotion.gif">
 </div>
 
-#### Security (Android & iOS)
+#### Security [<img src="/resources/android.png"](https://github.com/combateafraude/SDK/wiki/Security) [<img src="/resources/apple.png">](https://github.com/combateafraude/SDK/wiki/Security)
 
 Provides an interface to get a fingerprint and check the security of the current device.
 

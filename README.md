@@ -72,7 +72,3 @@ Provides an interface to get a fingerprint and check the security of the current
 <div align="center">
     <img src="/resources/Security.gif">
 </div>
-
-## Prerequisites, importing, changelog and other informations
-
-Take a look at the [wiki](https://github.com/combateafraude/SDK/wiki) page.

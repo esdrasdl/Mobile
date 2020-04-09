@@ -13,7 +13,7 @@ For more information about a specific topic, please check [our wiki](https://git
 
 These are the current avaliable modules:
 
-#### Onboarding [<img src="/resources/android.png">](https://github.com/combateafraude/SDK/wiki/Onboarding)
+#### Onboarding ([<img src="/resources/android.png">](https://github.com/combateafraude/SDK/wiki/Onboarding))
 
 Provides an interface used to scan a document and capture a real selfie of the user, used for registration process. It uses `DocumentDetector` + `FaceLiveness`
 

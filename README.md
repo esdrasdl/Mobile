@@ -7,72 +7,72 @@
 
 <hr>
 
-This repository contains releases and documentation of Combate a Fraude's Android SDKs.
+This repository contains releases and documentation of Combate a Fraude's SDKs.
 
 For more information about a specific topic, please check [our wiki](https://github.com/combateafraude/android-sdk/wiki) or [create an issue](https://github.com/combateafraude/android-sdk/issues).
 
 These are the current avaliable modules:
 
-#### CAF_Onboarding
+#### Onboarding (Android)
 
-Provides an interface used to scan a document and capture a real selfie of the user, used for registration process. It uses `CAF_DocumentDetector` + `CAF_FaceLiveness`
+Provides an interface used to scan a document and capture a real selfie of the user, used for registration process. It uses `DocumentDetector` + `FaceLiveness`
 
-[Documentation](https://github.com/combateafraude/android-sdk/wiki/CAF_Onboarding)
+[Documentation](https://github.com/combateafraude/SDK/wiki/Onboarding)
 
 <div align="center">
-    <img src="https://github.com/combateafraude/android-sdk/blob/master/resources/CAF_Onboarding.gif">
+    <img src="https://github.com/combateafraude/SDK/blob/master/resources/Onboarding.gif">
 </div>
 
-#### CAF_DocumentDetector
+#### DocumentDetector (Android & iOS)
 
 Provides an interface used to scan and validate documents. Ensures that the scanned document has enough quality to facilitate the process of Optical Character Recognition (OCR).
 
-[Documentation](https://github.com/combateafraude/android-sdk/wiki/CAF_DocumentDetector)
+[Documentation](https://github.com/combateafraude/SDK/wiki/DocumentDetector)
 
 <div align="center">
-    <img src="https://github.com/combateafraude/android-sdk/blob/master/resources/CAF_DocumentDetector.gif">
+    <img src="https://github.com/combateafraude/SDK/blob/master/resources/DocumentDetector.gif">
 </div>
 
-#### CAF_FaceAuthenticator
+#### FaceAuthenticator (Android & iOS)
 
 Provides an interface used to capture a selfie and compare it with a server-stored image, making sure they are the same person.
 
-[Documentation](https://github.com/combateafraude/android-sdk/wiki/CAF_FaceAuthenticator)
+[Documentation](https://github.com/combateafraude/SDK/wiki/FaceAuthenticator)
 
 <div align="center">
-    <img src="https://github.com/combateafraude/android-sdk/blob/master/resources/CAF_FaceAuthenticator.gif">
+    <img src="https://github.com/combateafraude/SDK/blob/master/resources/FaceAuthenticator.gif">
 </div>
 
-#### CAF_FaceLivenessEffortless
+#### FaceLivenessEffortless (Android & iOS)
 
 Provides an interface used to make sure that the person in front of the device is a live person and not a photo or recording without facial movements.
 
-[Documentation](https://github.com/combateafraude/android-sdk/wiki/CAF_FaceLivenessEffortless)
+[Documentation](https://github.com/combateafraude/SDK/wiki/FaceLivenessEffortless)
 
 <div align="center">
-    <img src="https://github.com/combateafraude/android-sdk/blob/master/resources/CAF_FaceLivenessEffortless.gif">
+    <img src="https://github.com/combateafraude/SDK/blob/master/resources/FaceLivenessEffortless.gif">
 </div>
 
-#### CAF_FaceLivenessMotion
+#### FaceLivenessMotion (Android & iOS)
 
 Provides an interface used to make sure that the person in front of the device is a live person and not a photo or recording using facial movements.
 
-[Documentation](https://github.com/combateafraude/android-sdk/wiki/CAF_FaceLivenessMotion)
+[Documentation](https://github.com/combateafraude/SDK/wiki/FaceLivenessMotion)
 
 <div align="center">
-    <img src="https://github.com/combateafraude/android-sdk/blob/master/resources/CAF_FaceLivenessMotion.gif">
+    <img src="https://github.com/combateafraude/SDK/blob/master/resources/FaceLivenessMotion.gif">
 </div>
 
-#### CAF_Security
+#### Security (Android & iOS)
 
 Provides an interface to get a fingerprint and check the security of the current device.
 
-[Documentation](https://github.com/combateafraude/android-sdk/wiki/CAF_Security)
+[Documentation](https://github.com/combateafraude/SDK/wiki/Security)
 
 <div align="center">
-    <img src="https://github.com/combateafraude/android-sdk/blob/master/resources/CAF_Security.gif">
+    <img src="https://github.com/combateafraude/SDK/blob/master/resources/Security.gif">
 </div>
 
 ## Prerequisites, importing, changelog and other informations
 
-Take a look at the [wiki](https://github.com/combateafraude/android-sdk/wiki) page.
+Take a look at the [wiki](https://github.com/combateafraude/SDK/wiki) page.

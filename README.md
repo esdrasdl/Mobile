@@ -9,7 +9,7 @@
 
 This repository contains releases and documentation of Combate a Fraude's SDKs.
 
-For more information about a specific topic, please check [our wiki](/wiki) or [create an issue](/issues).
+For more information about a specific topic, please check [our wiki](https://github.com/combateafraude/Mobile/wiki) or [create an issue](https://github.com/combateafraude/Mobile/issues).
 
 These are the current avaliable modules:
 

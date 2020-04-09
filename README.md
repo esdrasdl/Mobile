@@ -1,6 +1,6 @@
 <div align="center">
   
-  [<img width="400px" src="https://github.com/combateafraude/android-sdk/blob/master/resources/logo_black.png?raw=true">](https://combateafraude.com)
+  [<img width="400px" src="https://github.com/combateafraude/SDK/blob/master/resources/logo_black.png?raw=true">](https://combateafraude.com)
 
   # Combate a Fraude - Android SDKs
 </div>
@@ -13,7 +13,7 @@ For more information about a specific topic, please check [our wiki](https://git
 
 These are the current avaliable modules:
 
-#### Onboarding (Android)
+#### Onboarding <img src="/resources/android.png">
 
 Provides an interface used to scan a document and capture a real selfie of the user, used for registration process. It uses `DocumentDetector` + `FaceLiveness`
 

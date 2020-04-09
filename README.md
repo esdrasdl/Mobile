@@ -2,7 +2,7 @@
   
   [<img width="400px" src="/resources/logo_black.png?raw=true">](https://combateafraude.com)
 
-  # Combate a Fraude - Android SDKs
+  # Combate a Fraude - SDKs
 </div>
 
 <hr>
